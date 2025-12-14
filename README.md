@@ -24,9 +24,10 @@ python3 --version
 ```
 2. Abra o terminal na pasta do projeto
 3. Dê permissão de execução ao script:
-   ```bash
+```bash
    chmod +x calculadora.sh
 ```
+
 4. Execute o script:
 ```bash
 ./calculadora.sh
