@@ -1,6 +1,7 @@
 <p align="center">
   <img src="Aesthetic.jpg" width="100%" />
 </p>
+
 # Calculadora em Python com Script Shell
 
 Este projeto contém uma calculadora desenvolvida em Python, executada através de um script Shell (.sh).
